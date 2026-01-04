@@ -1,0 +1,27 @@
+.background {
+    background-image: url(background.jpg);
+    background-size: 100%;
+}
+
+.time {
+    font-size: 50px;
+    color: white;
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.robo {
+    height: 350px;
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 150px;
+}
+
+.dino {
+    height: 350px;
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 1200px;
+    transform: scaleX(-1);
+}
