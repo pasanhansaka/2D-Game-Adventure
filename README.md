@@ -4,12 +4,13 @@
 
 ---
 
-## 🎥 Gameplay Preview
+## 🎥 Gameplay
 
 Take a quick look at the gameplay and core mechanics of **2D Game Adventure**.
 
-▶️ **Gameplay Video**  
-<!-- Drag and drop your gameplay video here in GitHub to generate the link -->
+▶️ **Play the Game**  
+
+**Link - ** https://pasanhansaka.github.io/2D-Adventure-Game/
 
 ---
 
