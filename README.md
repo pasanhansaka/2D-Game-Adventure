@@ -10,7 +10,7 @@ Take a quick look at the gameplay and core mechanics of **2D Game Adventure**.
 
 ▶️ **Play the Game**  
 
-**Link - ** https://pasanhansaka.github.io/2D-Adventure-Game/
+**Link -** https://pasanhansaka.github.io/2D-Adventure-Game/
 
 ---
 
